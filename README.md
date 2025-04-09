@@ -1,4 +1,4 @@
-### 👋 Xin chào, mình là [Tên Của Bạn]! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### 👋 Xin chào, mình là [Nguyễn "Tee" Văn Thọ]! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p align="left"> <a href="https://github.com/spoteefy/spoteefy">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/spoteefy/spoteefy?style=social">
   </a>
