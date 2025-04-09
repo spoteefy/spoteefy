@@ -10,15 +10,6 @@ Mình là sinh viên ngành **Khoa học máy tính** tại **Đại học Bách
 
 Đam mê nghiên cứu AI, hướng về một tương lai tươi sáng... *bling bling...*
 
-
-### 📊 Thống kê GitHub:
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10"/>
-</p>
----
-
 ### 📫 In-búc tâm sự:
 
 <p align="left">
