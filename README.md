@@ -5,11 +5,10 @@
   </a>
 </p>
 
-Mình là một [**Vị trí/Vai trò của bạn** - ví dụ: Lập trình viên Full-Stack, Sinh viên ngành Khoa học Máy tính, Chuyên gia Dữ liệu...] đang sinh sống và làm việc tại **Hà Nội, Việt Nam** 🇻🇳.
+Mình là sinh viên ngành **Khoa học máy tính** tại **Đại học Bách khoa Hà Nội**, đang sinh sống và làm việc tại **Hà Nội, Việt Nam** 🇻🇳.
 
-Mình đam mê [**Lĩnh vực bạn yêu thích** - ví dụ: xây dựng các ứng dụng web hữu ích, khám phá sức mạnh của AI/ML, đóng góp cho mã nguồn mở...]. Mình luôn thích học hỏi những công nghệ mới và chia sẻ kiến thức với cộng đồng.
-
----
+Đam mê nghiên cứu AI, hướng về một tương lai tươi sáng... *bling bling...* ![Sparkle](https://media.giphy.com/media/example/giphy.gif)
+**---
 
 ### 🌱 Hiện tại mình đang tập trung vào:
 
