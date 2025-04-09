@@ -1,4 +1,8 @@
 ### 👋 Xin chào, mình là [Tên Của Bạn]! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<p align="left"> <a href="https://github.com/spoteefy/spoteefy">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/spoteefy/spoteefy?style=social">
+  </a>
+</p>
 
 Mình là một [**Vị trí/Vai trò của bạn** - ví dụ: Lập trình viên Full-Stack, Sinh viên ngành Khoa học Máy tính, Chuyên gia Dữ liệu...] đang sinh sống và làm việc tại **Hà Nội, Việt Nam** 🇻🇳.
 
