@@ -1,12 +1,64 @@
-<h1 align="center">Hi 👋, I'm Nguyễn "Tee" Văn Thọ</h1>
-<h3 align="center">Tôi đang làm việc ở MobiFone</h3>
+### 👋 Xin chào, mình là [Tên Của Bạn]! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<h3 align="left">Connect with me:</h3>
+Mình là một [**Vị trí/Vai trò của bạn** - ví dụ: Lập trình viên Full-Stack, Sinh viên ngành Khoa học Máy tính, Chuyên gia Dữ liệu...] đang sinh sống và làm việc tại **Hà Nội, Việt Nam** 🇻🇳.
+
+Mình đam mê [**Lĩnh vực bạn yêu thích** - ví dụ: xây dựng các ứng dụng web hữu ích, khám phá sức mạnh của AI/ML, đóng góp cho mã nguồn mở...]. Mình luôn thích học hỏi những công nghệ mới và chia sẻ kiến thức với cộng đồng.
+
+---
+
+### 🌱 Hiện tại mình đang tập trung vào:
+
+* 🔭 **Làm việc trên:** [Tên dự án cá nhân/công ty bạn đang làm hoặc mô tả chung - ví dụ: một ứng dụng quản lý công việc cá nhân, tối ưu hóa thuật toán X...]
+* 👯 **Tìm kiếm cơ hội hợp tác:** Mình rất quan tâm đến các dự án về [Lĩnh vực bạn muốn hợp tác - ví dụ: phát triển ứng dụng di động bằng React Native, phân tích dữ liệu lớn...]. Đừng ngần ngại liên hệ nếu bạn có ý tưởng hay!
+* 🌱 **Học hỏi thêm về:** [Công nghệ/Kỹ năng bạn đang trau dồi - ví dụ: Rust, Kubernetes, Thiết kế Hệ thống Phân tán...]
+* 💬 **Có thể hỏi mình về:** [Chủ đề bạn tự tin hoặc muốn thảo luận - ví dụ: JavaScript/TypeScript, React, Node.js, Python, kinh nghiệm xây dựng API...]
+* ⚡ **Một sự thật thú vị:** [Một điều gì đó về bạn - ví dụ: Mình có thể giải Rubik 3x3 dưới 1 phút! / Mình thích nhiếp ảnh vào cuối tuần.]
+
+---
+
+### 🛠️ Ngôn ngữ và Công cụ yêu thích:
+
 <p align="left">
-<a href="https://linkedin.com/in/nvtee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nvtee" height="30" width="40" /></a>
-<a href="https://fb.com/nvert2k2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nvert2k2" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="11" height="30" width="40" /></a>
-</p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+* **Frontend:** JavaScript (ES6+), TypeScript, React, Next.js, HTML5, CSS3, TailwindCSS...
+* **Backend:** Node.js, Express.js, Python, Flask/Django...
+* **Databases:** PostgreSQL, MongoDB, MySQL, Redis...
+* **Cloud & DevOps:** AWS, Docker, Git, Jenkins, Nginx...
+* **Tools:** VS Code, Postman, Figma...
+
+---
+
+### 📊 Thống kê GitHub:
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10"/>
+</p>
+---
+
+### 📫 Cách liên hệ với mình:
+
+<p align="left">
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://your-portfolio-website.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Website/Portfolio"/>
+    </a>
+   <a href="https://facebook.com/your.facebook.profile" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+   </a>
+  </p>
+
+---
+Cảm ơn bạn đã ghé thăm profile của mình! 😊
